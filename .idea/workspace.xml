@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="421d7fb7-fab3-48c2-b140-ac993b300cb0" name="Default Changelist" comment="drugi">
+    <list default="true" id="421d7fb7-fab3-48c2-b140-ac993b300cb0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/TransportDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/TransportDAO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -224,7 +221,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557734232249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557735598091" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -253,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PripremaTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.tutorijal8.Main" />
       <module name="Tutorijal_8" />
@@ -264,6 +261,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PripremaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tutorijal_8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.tutorijal8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.tutorijal8" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.tutorijal8.PripremaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PripremaTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -306,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557734158793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="treci">
+      <created>1557734595591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557734595591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -314,7 +338,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18676628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,7 +376,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Resetovanje baze prije svakog testiranja" />
     <MESSAGE value="drugi" />
-    <option name="LAST_COMMIT_MESSAGE" value="drugi" />
+    <MESSAGE value="treci" />
+    <option name="LAST_COMMIT_MESSAGE" value="treci" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rs/tutorijal8/Main.java">

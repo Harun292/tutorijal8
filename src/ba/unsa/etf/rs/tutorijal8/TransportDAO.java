@@ -5,8 +5,11 @@ import java.util.List;
 import java.util.concurrent.Future;
 
 public class TransportDAO {
+    private static TransportDAO instance=null;
+
     public static TransportDAO getInstance() {
-        return null;
+        if(instance==null) initalize();
+        return instance;
     }
 
     public void deleteDriver(Driver driver) {
@@ -31,5 +34,11 @@ public class TransportDAO {
     }
 
     public void addBus(Bus bus) {
+    }
+
+
+
+    private static void initalize(){
+        instance=new TransportDAO();
     }
 }
